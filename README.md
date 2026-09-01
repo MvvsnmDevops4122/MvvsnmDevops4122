@@ -55,7 +55,10 @@ AWS, CI/CD, and cloud-native technologies**.
 ### 🐧 Linux & Scripting
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://github.com/MvvsnmDevops4122/linux-administration">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+
   <img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
