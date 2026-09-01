@@ -5,9 +5,11 @@
 <h3>DevOps Engineer | Linux | AWS | Docker | Kubernetes | CI/CD</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MvvsnmDevops4122&label=Profile%20Views&color=555555&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT%20Experience-4.5%20Years-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-55%2B-555555?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MvvsnmDevops4122&label=Profile%20Views&color=6B7280&style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/IT%20Experience-4.5%20Years-2563EB?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Microservices-55%2B-0F766E?style=for-the-badge" />
 </p>
 
 <p>
