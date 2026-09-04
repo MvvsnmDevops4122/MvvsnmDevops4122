@@ -45,6 +45,14 @@ AWS, CI/CD, and cloud-native technologies**.
 
 ## 🧰 Technical Skills
 
+### 📘 SDLC — Software Development Life Cycle
+
+<p>
+  <a href="https://github.com/MvvsnmDevops4122/SDLC-to-DevOps-The-Complete-Software-Delivery-Journey.git">
+    <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ### 🔀 Version Control
 
 <p>
@@ -108,6 +116,7 @@ AWS, CI/CD, and cloud-native technologies**.
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/SDLC-6A5ACD?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
