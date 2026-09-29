@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm MOLLETI VEERA VENKATA SATYANARAYANA</h1>
 
-<h3>DevOps Engineer | DevSecOps Engineer | CI/CD | Kubernetes | AWS | Docker | Linux</h3>
+<h3>DevOps Engineer | CI/CD | Kubernetes | AWS | Docker | Linux</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MvvsnmDevops4122&label=Profile%20Views&color=6366F1&style=for-the-badge" />
